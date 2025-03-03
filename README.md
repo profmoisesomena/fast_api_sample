@@ -75,4 +75,3 @@ curl -X PUT "http://localhost:8000/items/1" \
 ### Delete an item
 ```
 DELETE /items/1
-# fast_api_sample
