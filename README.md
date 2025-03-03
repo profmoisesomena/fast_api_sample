@@ -40,7 +40,9 @@ This project demonstrates how to integrate FastAPI with a PostgreSQL database.
 
 ## Example Usage Swagger UI
 
-http://localhost:8000/docs
+http://localhost:8000/docs <br>
+![image](https://github.com/user-attachments/assets/05169184-4cc6-40da-8dd4-fea1b50e58ae)
+
 
 ## Other examples and explanations
 
